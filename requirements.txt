@@ -1,9 +1,8 @@
 streamlit
 pandas
 numpy
-matplotlib
 scikit-learn
-seaborn
-statsmodels
 plotly
-pillow
+matplotlib
+seaborn
+firebase-admin
